@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-10T10:18:19.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="_AND78nEG3mxoiFP0wxN" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-10T10:20:21.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="4EPChl0fqe2aw0ASsnZx" version="12.5.1" type="github">
   <diagram id="-fwhPAeI0vTTsdXvRMv6" name="第 1 页">
     <mxGraphModel dx="2015" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -405,6 +405,9 @@
             <mxPoint x="50" y="940" as="sourcePoint"/>
             <mxPoint x="850" y="940" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Y-8gsAqGTMaJMT4dQ_MY-71" value="BMS 事例" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1560" width="225" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
